@@ -1,0 +1,6 @@
+  podman pull debian = puxar a imagem debian.
+  podman run -d debian.
+  podman container ls -a = identificar todos os containers dentro do podman.
+  podman exec -it relaxed_colden sh = após identificar o container relacionado ao debian, usado para rodar o container destacado
+  apt update = update dos arquivos.
+  apt install python3 = instalar o python.
