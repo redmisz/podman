@@ -1,0 +1,8 @@
+su = comando para ter permissão de sudoers dentro do terminal.
+sudo apt install podman = instalação do podman.
+sudo apt update podman = atualizar o podman.
+podman pull debian = utilizar o podman para puxar a criar a imagem do debian.
+podman run -it debian = rodar o debian.
+apt-get install -y neofetch = instalar o neofetch dentro do debian.
+apt-get update = update do neofetch.
+neofetch = rodar o neofetch dentro do container.
